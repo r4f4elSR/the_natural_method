@@ -1,8 +1,7 @@
 ---
-title: The Natural Method
+title: The Natural Method - English By The HARD Way
 ---
-
-This is a digital reproduction of the book English By The Nature Method by Arthur Jensen.
+This is a digital reproduction of the book English By The Nature Method by Arthur Jensen. In this method, you learn the language without using translations, just the language itself.
 
 ## Index
 
