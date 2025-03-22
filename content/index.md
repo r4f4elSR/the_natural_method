@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: The Natural Method
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+This site is a digital reproduction of the book English By The Nature Method by Arthur Jensen.

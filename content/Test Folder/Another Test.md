@@ -1,8 +1,6 @@
 ---
 title: Another Test Title
 draft: false
-tags:
-  - example-tag
+tags: []
 ---
- 
-HAHha ASDAMSD
+ HAHha ASDAMSD
