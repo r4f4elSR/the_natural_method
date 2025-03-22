@@ -6,5 +6,5 @@ This is a digital reproduction of the book English By The Nature Method by Arthu
 
 ## Index
 
-[[0. Phonemes]] \
-[[1. Chapter One (1) - THE FAMILY]]
+[[Phonemes]] \
+[[Chapter One (1) - THE FAMILY]]

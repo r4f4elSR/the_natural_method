@@ -1,5 +1,5 @@
 ---
-title: 0. Phonemes
+title: Phonemes
 draft: false
 tags:
 ---

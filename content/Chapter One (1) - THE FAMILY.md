@@ -1,5 +1,5 @@
 ---
-title: 1. Chapter One (1) - THE FAMILY
+title: Chapter One (1) - THE FAMILY
 draft: false
 tags:
 ---
