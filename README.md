@@ -1,6 +1,8 @@
 # The Natural Method
 
-This project is a digital reproduction of the book English By The Nature Method by Arthur Jensen, but with new phonetic transcriptions, obtained with toPhonetics. In this method, you learn the language without using translations, just the language itself.
+This project is a digital reproduction of the book English By The Nature Method by Arthur Jensen, but with new phonetic transcriptions, obtained with [toPhonetics](https://tophonetics.com/). In this method, you learn the language without using translations, just the language itself.
+
+You can access the result via https://r4f4elsr.github.io/the_natural_method/
 
 # Quartz v4
 
