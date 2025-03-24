@@ -1,3 +1,7 @@
+# The Natural Method
+
+This project is a digital reproduction of the book English By The Nature Method by Arthur Jensen, but with new phonetic transcriptions, obtained with toPhonetics. In this method, you learn the language without using translations, just the language itself.
+
 # Quartz v4
 
 > “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
